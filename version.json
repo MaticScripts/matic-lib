@@ -1,17 +1,14 @@
 {
-  "version": "1.2.1",
+  "version": "1.1.0",
   "changelog": [
-    "Initial release of Matic-LIB",
-    "Includes ESX/QB autodetect system",
-    "Secure event system with player tokens",
-    "Client/Server callback handler",
-    "Modern custom NUI Notify system",
-    "Console banner with update check",
-    "GitHub live version validation"
+    "Improved update system",
+    "Added local version comparison",
+    "Fixed async load issues",
+    "Enhanced UI performance"
   ],
   "meta": {
     "author": "Rookzone",
-    "repo": "https://github.com/MaticScripts/matic-lib",
+    "repo": "MaticScripts/matic-lib",
     "last_update": "2025-11-09T00:00:00Z"
   }
 }
