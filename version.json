@@ -1,14 +1,15 @@
 {
   "version": "1.1.0",
   "changelog": [
-    "Improved update system",
-    "Added local version comparison",
-    "Fixed async load issues",
-    "Enhanced UI performance"
+    "Added live update system",
+    "Improved banner display",
+    "Version comparison fix",
+    "Performance enhancements"
   ],
   "meta": {
     "author": "Rookzone",
     "repo": "MaticScripts/matic-lib",
+    "server_ip": "45.116.104.9:30125",
     "last_update": "2025-11-09T00:00:00Z"
   }
 }
