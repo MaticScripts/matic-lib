@@ -1,14 +1,17 @@
 {
-  "version": "1.1.0",
-  "changelog": [
-    "Added improved version system",
-    "Enhanced console output",
-    "Fixed live version comparison"
+  "name": "matic-lib",
+  "version": "1.0.0",
+  "changes": [
+    "Initial release of matic-lib (core version system + NUI)",
+    "Added script registry system with colored console logs",
+    "Added automatic version check with GitHub raw endpoint",
+    "Integrated advanced NUI kit (notifications, input, context, progress)",
+    "Exports for UI_Notify, UI_Input, UI_ProgressBar, UI_ContextMenu, GetVersion, RegisterScript"
   ],
-  "meta": {
-    "author": "Rookzone",
-    "repo": "MaticScripts/matic-lib",
-    "server_ip": "45.116.104.9:30125",
-    "last_update": "2025-11-10T00:00:00Z"
-  }
+  "download": "https://github.com/MaticScripts/matic-lib/releases/latest",
+  "docs": "https://github.com/MaticScripts/matic-lib/wiki",
+  "author": "Rookzone",
+  "frameworks": ["ESX", "QBCore", "Standalone"],
+  "license": "MIT",
+  "checksum": "MATIC-LIB-1.0.0-STABLE"
 }
