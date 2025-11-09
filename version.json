@@ -1,6 +1,6 @@
 {
   "name": "matic-lib",
-  "version": "1.1.2",
+  "version": "1.5.0",
   "changes": [
     "More Futures",
     "ingame connection fixed",
