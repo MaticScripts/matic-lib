@@ -2,13 +2,13 @@
   "name": "matic-lib",
   "version": "1.0.2",
   "changes": [
-    "Initial release of matic-lib (core version system + NUI)",
-    "Added script registry system with colored console logs",
+    "More Futures",
+    "ingame connection fixed",
     "Added automatic version check with GitHub raw endpoint",
     "Integrated advanced NUI kit (notifications, input, context, progress)",
     "Exports for UI_Notify, UI_Input, UI_ProgressBar, UI_ContextMenu, GetVersion, RegisterScript"
   ],
-  "download": "https://github.com/MaticScripts/matic-lib/releases/latest",
+  "download": "https://portal.cfx.re/ NEW VERSION!",
   "docs": "https://github.com/MaticScripts/matic-lib/wiki",
   "author": "Rookzone",
   "frameworks": ["ESX", "QBCore", "Standalone"],
