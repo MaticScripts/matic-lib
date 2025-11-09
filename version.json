@@ -1,6 +1,6 @@
 {
   "name": "matic-lib",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "changes": [
     "Initial release of matic-lib (core version system + NUI)",
     "Added script registry system with colored console logs",
