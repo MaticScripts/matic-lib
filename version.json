@@ -1,10 +1,9 @@
 {
   "version": "1.1.0",
   "changelog": [
-    "Live update system implemented",
-    "Improved console banner",
-    "Optimized network check",
-    "Added server version sync"
+    "Added improved version system",
+    "Enhanced console output",
+    "Fixed live version comparison"
   ],
   "meta": {
     "author": "Rookzone",
