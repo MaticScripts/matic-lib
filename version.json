@@ -4,9 +4,9 @@
   "changes": [
     "More Futures",
     "ingame connection fixed",
-    "Added automatic version check with GitHub raw endpoint",
-    "Integrated advanced NUI kit (notifications, input, context, progress)",
-    "Exports for UI_Notify, UI_Input, UI_ProgressBar, UI_ContextMenu, GetVersion, RegisterScript"
+    "Libary NUi update",
+    "Update context and notify",
+    "better design"
   ],
   "download": "https://portal.cfx.re/ NEW VERSION!",
   "docs": "https://github.com/MaticScripts/matic-lib/wiki",
