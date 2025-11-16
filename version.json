@@ -1,17 +1,9 @@
 {
-  "name": "matic-lib",
-  "version": "2.0.0",
-  "changes": [
-    "More Futures",
-    "ingame connection fixed",
-    "Libary NUi update",
-    "Update context and notify",
-    "better design"
-  ],
-  "download": "https://portal.cfx.re/ NEW VERSION!",
-  "docs": "https://github.com/MaticScripts/matic-lib/wiki",
-  "author": "Rookzone",
-  "frameworks": ["ESX", "QBCore", "Standalone"],
-  "license": "MIT",
-  "checksum": "MATIC-LIB-1.0.0-STABLE"
+    "version": "1.0.0",
+    "name": "matic-rental",
+    "changelog": [
+        "Initial release van Matic Rental.",
+        "Basis voertuigverhuursysteem toegevoegd.",
+        "ESX + ox_lib + ox_target ondersteuning."
+    ]
 }
