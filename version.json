@@ -1,9 +1,6 @@
 {
-    "version": "1.0.0",
-    "name": "matic-rental",
-    "changelog": [
-        "Initial release van Matic Rental.",
-        "Basis voertuigverhuursysteem toegevoegd.",
-        "ESX + ox_lib + ox_target ondersteuning."
-    ]
+    "matic-robberycreator": { "version": "1.0.0" },
+    "matic-shops": { "version": "2.1.0" },
+    "matic-appartments": { "version": "1.3.4" },
+    "matic-jobcreator": { "version": "1.4.2" }
 }
