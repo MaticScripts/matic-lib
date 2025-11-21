@@ -1,5 +1,11 @@
 {
     "matic-robberycreator": {
         "version": "2.0.0"
+    },
+    "soon-1": {
+        "version": "1.0.0"
+    },
+    "soon-2": {
+        "version": "1.0.0"
     }
 }
